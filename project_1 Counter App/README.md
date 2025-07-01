@@ -2,10 +2,12 @@
 
 ### Project View: 
 - Normal Mode:
-![](/images/normal_mode.png)
+  
+![](https://github.com/aimG313/Frontend-Projects-with-Python-Flet/blob/main/project_1%20Counter%20App/images/normal_mode.png?raw=true)
 
 - Dark Mode:
-![](/images/dark_mode.png)
+  
+![](https://github.com/aimG313/Frontend-Projects-with-Python-Flet/blob/main/project_1%20Counter%20App/images/dark_mode.png?raw=true)
 
 
 ### Functionality: 
